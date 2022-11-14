@@ -7,9 +7,6 @@ https://user-images.githubusercontent.com/24374437/201616272-bee6df9c-2ab9-4369-
 
 
 
-https://user-images.githubusercontent.com/24374437/201616336-803e7555-a816-4ca2-8e02-89b758265881.mp4
-
-
 Oblique Projection - A checkerboard is drawn using oblique projection. Demonstrates oblique projection. The checkers have a reflection. The board and checkers are drawn from back to front.
 
 
@@ -35,14 +32,14 @@ https://user-images.githubusercontent.com/24374437/201616996-1b9d2608-4857-4097-
 
 
 
-https://user-images.githubusercontent.com/24374437/201617018-92a7a903-575b-4f20-af65-b0da5a0976ba.mp4
 
 
 Isometric Elevations Layers - A terrain map is drawn that uses multiple map layers. Demonstrates isometric projection. Multiple map layers permits structures that are taller than one tile.
 
 
 
-https://user-images.githubusercontent.com/24374437/201617048-666a7d80-45d8-4688-8f2b-4445441275a5.mp4
+
+https://user-images.githubusercontent.com/24374437/201617018-92a7a903-575b-4f20-af65-b0da5a0976ba.mp4
 
 
  
